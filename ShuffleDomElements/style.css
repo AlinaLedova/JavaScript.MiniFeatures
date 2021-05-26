@@ -1,0 +1,14 @@
+.container {
+    width: 600px;
+    margin: 50px auto;
+    padding: 10px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+}
+
+.target {
+    border: 1px solid black;
+    margin: 5px auto 5px;
+    padding: 10px;
+}
